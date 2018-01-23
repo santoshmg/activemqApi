@@ -14,3 +14,4 @@
   - Optimized Acknowledge (optimizeAcknowledge=true)
   
 
+TODO - https://memorynotfound.com/spring-boot-activemq-publish-subscribe-topic-configuration-example/
