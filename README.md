@@ -4,3 +4,4 @@
 
 
 [Unit test configuration for activeMQ](http://activemq.apache.org/how-to-unit-test-jms-code.html)
+[Performance](http://activemq.apache.org/performance.html)
